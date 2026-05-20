@@ -64,4 +64,4 @@ Key columns used across visuals:
 ## Author
 **Raj** — Aspiring Data Analyst  
 GitHub: [github.com/RitikAnalyst](https://github.com/RitikAnalyst)--
-## Related Projects- [Superstore Sales Analysis](https://github.com/RitikAnalyst) — Python / Pandas / Matplotlib- Olist [E-commerce SQL Analysis](https://github.com/RitikAnalyst) — PostgreSQL
+## Related Projects- [Superstore Sales Analysis](https://github.com/RitikAnalyst) — Python / Pandas / Matplotlib / Seaborn - Olist [E-commerce SQL Analysis](https://github.com/RitikAnalyst) — PostgreSQL
